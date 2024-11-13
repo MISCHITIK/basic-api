@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.example.demo.apiApplication
+Main-Class: com.example.demo.Demo3Application
 
